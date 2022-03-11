@@ -1,7 +1,7 @@
-## Nama        : Oktovan Agung Shailendra
-## NIM         : 312010131
-## Kelas       : TI.20.A1
-## Mata Kuliah : Pemrograman Web
+# Nama        : Oktovan Agung Shailendra
+# NIM         : 312010131
+# Kelas       : TI.20.A1
+# Mata Kuliah : Pemrograman Web
 
 ## **Langkakh - Langkah Praktikum**
 persiapan membuka VSCode dan Browser.
@@ -20,3 +20,13 @@ Buatlah paragraf sederhana seperti berikut, dan kemudian lihat hasilnya dengan m
 Kemudain atur atribut paragraf seperti berikut dan lihat perubahannya
 ![img](Img/IMG%20(5).png)
 Simpan dan refresh web browser untuk melihat perubahannya. selanjutnya ubah - ubah nilai atributnya (*align = justify, leftl right dan center*) untuk melihat perbedaannya.
+
+## **2. Menambahkan Judul**
+Judul memiliki 6 level yang berbeda mulai dari h1 sampai h6. Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub-judul h2 sebelum paragraf ke 2.
+![img](Img/IMG%20(6).png)
+Simpan dan lihat perubahannya.
+
+## **3. Memformat teks**
+Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada penjelasan materi pemformatan teksm sehingga tampilannya seperti berikut
+![img](Img/IMG%20(7).png)
+Lakukan eksperimen lainnya dengan tag - tag pemformatan teks yang ada.
