@@ -26,7 +26,15 @@ Judul memiliki 6 level yang berbeda mulai dari h1 sampai h6. Kemudian tambahkan 
 ![img](Img/IMG%20(6).png)
 Simpan dan lihat perubahannya.
 
-## **3. Memformat teks**
+## **3. Memformat Teks**
 Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada penjelasan materi pemformatan teksm sehingga tampilannya seperti berikut
 ![img](Img/IMG%20(7).png)
 Lakukan eksperimen lainnya dengan tag - tag pemformatan teks yang ada.
+
+## **4. Menyisipkan Gambar**
+Untuk menyisipkan gambar, siapkan gambar yang akan disisipkan dan taruh pada satu folder dengan file HTML., atau bisa juga menyisipkan gambar dari website eksternal.
+![img](Img/IMG%20(8).png)
+Kemudian tambahkan tag img setelah paragraf kedua, dengan menambahkan heading 3 sebelumnya.
+![img](Img/IMG%20(9).png)
+Gambar akan ditampilkan apa adanya sesuai ukuran aslinya. Untuk mengatur ukuran gambar, dapat digunakan atribit witdh dan height dengan nilai integer yang disesuaikan
+![img](Img/IMG%20(10).png)
