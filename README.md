@@ -3,7 +3,7 @@
 # Kelas       : TI.20.A1
 # Mata Kuliah : Pemrograman Web
 
-## **Langkakh - Langkah Praktikum**
+## **Langkah- Langkah Praktikum**
 persiapan membuka VSCode dan Browser.
 ![img](Img/IMG%20(1).png)
 
@@ -51,3 +51,29 @@ Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut. Dan lihat ha
 5. pada link tambahkan atribut target dengan nilai atribut bervariasi (_blank, _self, _top, _parent), apa yang terjadi pada masing - masing nilai atribut tersebut ?
 
 ## **JAWABAN**
+1. Saya akan melakukan perubahan pada tag HTML
+sebelum perubahan
+![img](Img/IMG%20(12).png)
+Setelah perubahan
+![img](Img/IMG%20(13).png)
+Disini saya melakukan perubahan dengan menghilangkan akhiran pada Tag `</h1>` menjadi `<h1>`, maka yang akan terjadi seluruh elemen dibawah tag tersebut akan berubah mengikuti Tag `<h1>` dikarenakan tidak ada akhiran/penutup Tag tersebut.
+
+2. Tag `<p>` berfungsi untuk memberi perintah paragraf pada halaman html
+Tag `<br>` berfungsi untuk memberikan perintah breakline atau baris baru.
+![img](Img/IMG%20(14).png)
+
+3. `title` berfungsi untuk memberikan judul pada gambar, Sedangkan
+`alt` berfungsi untuk menunjukkan sebuah alternate text (teks pengganti) yang akan muncul apabila gambar tidak dapat ditampilkan.
+gambar dibawah ini menunjukan perbedaan title dan alt.
+![img](Img/IMG%20(15).png)
+
+4. Menurut saya tidak harus menggunakan keduanya karena jika menggunakan keduanya dengan ukuran angka yang sama ukuran gambar pada web tidak simetris, sedangkan jika hanya menggunakan salah satu ukutannya akan bertambah besar secara simetris. Comtoh seperti gambar dibawah :
+![img](Img/IMG%20(16).png)
+
+5.  `_blank` untuk membuka link di tab baru
+
+    `_self` untuk membuka link di frame link itu berada
+
+    `_top` untuk membuka link di frame paling atas (paling luar).  contohnya jika di website(1) di dalamnya ada website(2) lalu di website(2) di dalamnya ada website (3) lalu di website (3) ini ada link dan kita klik, maka link akan terbuka di website(1)
+
+    `_parent` untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada. contohnya jika di website(1) di dalamnya ada website(2) lalu di website(2) ini ada link dan kita klik, maka link akan terbuka di website(1)
