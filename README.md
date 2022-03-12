@@ -38,3 +38,7 @@ Kemudian tambahkan tag img setelah paragraf kedua, dengan menambahkan heading 3 
 ![img](Img/IMG%20(9).png)
 Gambar akan ditampilkan apa adanya sesuai ukuran aslinya. Untuk mengatur ukuran gambar, dapat digunakan atribit witdh dan height dengan nilai integer yang disesuaikan
 ![img](Img/IMG%20(10).png)
+
+## **5. Menambahkan Hyper Link**
+Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut. Dan lihat hasilnya hasilnya.
+![img](Img/IMG%20(11).png)
